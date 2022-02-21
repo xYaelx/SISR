@@ -1,3 +1,20 @@
+21.2.22
+SS trained nets:
+* Real-ESRGAN | TODO, may not work on IRL images (trained on anime images)
+https://github.com/xinntao/Real-ESRGAN 
+
+* MuCAN + LAPAR + Beby | TODO, implemented in Pytoch(!)
+https://github.com/dvlab-research/Simple-SR
+
+* DRRN-pytorch
+https://github.com/yjn870/DRRN-pytorch
+
+* LIIF | pretrained wights do not fit the model
+https://github.com/yinboc/liif
+
+* EDSR | didn't find how to evaluate it
+https://github.com/sanghyun-son/EDSR-PyTorch
+-----
 1. Open GIT brunch - done
 2. How to implement preceptual loss - what is the input and how to write the gradiends (check if there's a ready made) ->Tali
 3. Take the ZSSR notebook and Understand what's missing in the ZSSR notebook from the paper->Omer
